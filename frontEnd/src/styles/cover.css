@@ -1,0 +1,7 @@
+.cover{
+    width: 100%;
+    height: 60vh;
+    background: url(/images/srh1.jpg);
+    background-size: cover;
+    
+}

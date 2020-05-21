@@ -1,0 +1,154 @@
+.section {
+  padding: 55px 0;
+  font-size: 14px;
+}
+
+.footer-info {
+  padding: 40px 0;
+}
+
+footer .social a {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+footer {
+  background: #2B6DAD;
+  color: #fff;
+}
+
+footer .small-title {
+  margin-bottom: 20px;
+  font-size: 22px;
+  color: #fff;
+}
+
+footer .footer-div {
+  padding: 8px 0;
+}
+
+
+@media screen and (max-width: 574px) {
+  .link-text {
+    margin-top: 20px;
+  }
+}
+
+footer ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+footer ul li {
+  line-height: 25px;
+}
+
+footer ul li a {
+  color: #fff;
+  font-size: 14px;
+}
+
+footer ul li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer .menu {
+  color: #fff;
+}
+
+footer .plain-flicker-gallery {
+  margin-right: -5px;
+  margin-left: -5px;
+}
+
+footer .plain-flicker-gallery a {
+  display: inline-block;
+  width: 32%;
+  font-size: 0px;
+  padding: 5px;
+}
+
+footer .plain-flicker-gallery a img {
+  width: 100%;
+}
+
+/* footer .form-control {
+  color: #999;
+  font-size: 14px;
+  margin-bottom: 15px;
+  background: #e7e8ed;
+  border-radius: 0px;
+} */
+
+footer #copyright {
+  background: #000;
+}
+
+footer #copyright .row {
+  padding: 10px 0;
+}
+
+footer #copyright .copyright-text,
+footer #copyright .nav-inline {
+  line-height: 38px;
+  margin-bottom: 0;
+}
+
+.social-footer p {
+    text-align: center;
+}
+
+.social-footer a i {
+  font-size: 14px;
+  height: 35px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid #fff;
+  line-height: 35px;
+  margin: 4px;
+  width: 35px;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+footer .fa {
+    color: #fff;
+    margin-right: 5px;
+}
+
+.social-footer .fa-facebook:hover {
+  background: #3b5998;
+  color: #fff;
+  border-color: #fff;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.footer-logo {
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.light-footer {
+  background: #f7f7f7;
+}
+
+.mini-footer {
+  border-top: 1px solid #fff;
+  background:#2B6DAD;
+  text-align:center;
+  padding: 15px 0  ;
+ }
+ .mini-footer p {
+  margin:0;
+  line-height:26px;
+  font-size:15px;
+  color:#fff;
+ }

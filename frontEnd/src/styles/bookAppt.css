@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background: url(/images/srh1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.container h1 {
+  text-align: center;
+  margin: 50px 0;
+}
+
+
+.read-div {
+  padding: 0 30px;
+}
+
+.read-div p {
+  font-size: 14px;
+  color: #333;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+form {
+  margin:70px 0;
+  padding:30px;
+  background-color:  #fbfcfc;
+}
+
+form h1 {
+  text-align: center;
+  padding: 30px;
+}
+
+form h3 {
+  padding-bottom: 30px;
+}
+
+form button {
+  text-transform: uppercase;
+  margin: 10px 0;
+  width: 150px;
+}
+
+form p {
+  font-style: italic;
+}
